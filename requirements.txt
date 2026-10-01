@@ -1,0 +1,16 @@
+# Core data & scientific stack
+numpy>=1.26
+pandas>=2.2
+
+# Plotting
+matplotlib>=3.8
+
+# Machine learning
+scikit-learn>=1.4
+
+# Notebook environment (kernel + execution)
+ipykernel>=6.29
+nbformat>=5.10
+nbconvert>=7.14
+jupyter>=1.0
+notebook>=7.1
