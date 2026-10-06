@@ -3,7 +3,13 @@
 Predict whether a tweet describes a real disaster (`target = 1`) or a non-disaster
 tweet (`target = 0`).
 
-Built on the well-known Twitter disaster classification dataset (`train.csv`).
+Built on the well-known Twitter disaster classification dataset.
+
+## Get the data
+
+The dataset is not included in this repo. Download `train.csv` from Kaggle:
+[Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started/data)
+(login required), then place it next to the notebook.
 
 ## Setup
 
